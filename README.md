@@ -1,5 +1,3 @@
-<a href="#"><img width="30px" height="auto" src="https://cdn2.antasia.fr/Naos_logo.png" height="175px"/></a>
-
 <h1 align="center">Hey, I'm Naos <img src="https://cdn2.antasia.fr/Naos_logo.png" width="30px"></h1>
 
 
