@@ -34,3 +34,9 @@
 
 <br/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaosV1&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaosV1&layout=compact&theme=tokyonight"> <br> <a href="https://github.com/NaosV1/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=NaosV1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+    
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Meghna-DAS">
+</a>
+<a href="https://github.com/Meghna-DAS?tab=followers"><img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge"></a>
