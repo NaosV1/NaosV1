@@ -27,5 +27,5 @@
 
 ## 📊 Github's Statistics
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaosV1&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaosV1&layout=compact&theme=tokyonight"> <br>
+![NaosV1's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaosV1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
