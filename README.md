@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Naos <img src="[https://cdn.discordapp.com/avatars/963104460693991474/4446db064b4cdc02a9fa7b64c35e088d.png?size=64](https://avatars.githubusercontent.com/u/96833880?v=4)" width="30px"></h1>
+<h1 align="center">Hey, I'm Naos <img src="https://avatars.githubusercontent.com/u/96833880?v=4" width="30px"></h1>
 
 
 
