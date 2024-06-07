@@ -32,4 +32,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://imgs.search.brave.com/NnHqjulQNYIjYCQEwa7Q3P95IMLHO7WXpLvLNMGzkVg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXIuZm9yZnVu/LmNvbS9mZXRjaC9l/Yi9lYjY0MWEzZTUy/M2MxMGYyY2Y1M2Vk/Zjc5ZTk2YzZjOC5q/cGVn');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/NaosV1/NaosV1/main/eb641a3e523c10f2cf53edf79e96c6c8.webp');]{x0000}$}
