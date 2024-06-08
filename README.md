@@ -29,7 +29,3 @@
 
 ![NaosV1's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaosV1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaosV1)](https://github.com/NaosV1/github-readme-stats)
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; background-size: cover; width: 100%; opacity: 0.5; background: url('https://raw.githubusercontent.com/NaosV1/NaosV1/main/eb641a3e523c10f2cf53edf79e96c6c8.webp');]{x0000}$}
