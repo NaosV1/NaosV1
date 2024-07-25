@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🔔 Ex Owner of **[Antasia](https://antasia.fr)** ([Discord](https://antasia.fr/discord))
+- 🔔 Work for **[Antasia](https://antasia.fr)** ([Discord](https://antasia.fr/discord))
 
 - 💻 Developer
 
