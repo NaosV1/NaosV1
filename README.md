@@ -4,11 +4,11 @@
 
 ## 🙋‍♂️ About me
 
-- 🔔 Work for **[Antasia](https://antasia.fr)** ([Discord](https://antasia.fr/discord))
+- 🔔 Work for **[Paxcia](https://paxcia.net)** ([Discord](https://paxcia.net/discord))
 
 - 💻 Developer
 
-- <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> <a href="mailto:naos@antasia.fr">Contact Me</a>
+- <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji> <a href="mailto:naos@paxcia.net">Contact Me</a>
     
 ## 🚀 Skills
 
