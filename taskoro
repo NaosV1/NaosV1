@@ -1,0 +1,17 @@
+{
+  "version": "1.0.7",
+  "minVersion": "1.0.0",
+  "releaseDate": "2026-01-30",
+  "releaseNotes": {
+    "en": "New Analytics page with advanced statistics and optimized navigation (4 tabs instead of 5)",
+    "fr": "Nouvelle page Analytics avec statistiques avancées et navigation optimisée (4 onglets au lieu de 5)",
+    "es": "Nueva página Analytics con estadísticas avanzadas y navegación optimizada (4 pestañas en lugar de 5)",
+    "de": "Neue Analytics-Seite mit erweiterten Statistiken und optimierter Navigation (4 Tabs statt 5)",
+    "it": "Nuova pagina Analytics con statistiche avanzate e navigazione ottimizzata (4 schede invece di 5)"
+  },
+  "storeLinks": {
+    "ios": "https://apps.apple.com/us/app/taskoro/id6746448398",
+    "android": "https://github.com/NaosV1/NaosV1/releases/tag/v1.0.7"
+  },
+  "critical": false
+}
