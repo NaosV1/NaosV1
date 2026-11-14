@@ -6,10 +6,9 @@
 
 ### 💫 Developer | Creator | Problem Solver
 
-[![Email](https://img.shields.io/badge/Email-naos%40paxcia.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naos@paxcia.net)
+[![Email](https://img.shields.io/badge/Email-jules%40delesse.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jules@delesse.fr)
 [![Paxcia](https://img.shields.io/badge/Paxcia-Visit%20Website-blueviolet?style=for-the-badge&logo=firefox&logoColor=white)](https://paxcia.net)
 [![Kalendoo](https://img.shields.io/badge/Kalendoo-kalendoo.app-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)](https://kalendoo.app)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://paxcia.net/discord)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
