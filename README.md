@@ -117,7 +117,7 @@ I'm always excited to collaborate on interesting projects! Whether it's:
 
 ### 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-naos%40paxcia.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naos@paxcia.net)
+[![Email](https://img.shields.io/badge/Email-jules%40delesse.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jules@delesse.fr)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
